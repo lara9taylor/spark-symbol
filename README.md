@@ -44,6 +44,15 @@ This icon is free to use, modify, and share — for model cards, creative tools,
 **MIT License**  
 Attribution appreciated but not required.
 
+## 🔽 Download the Icon
+
+- [Full Color SVG](./assets/spark-icon-color.svg)  
+- [Black SVG](./assets/spark-icon-black.svg)  
+- [White SVG](./assets/spark-icon-white.svg)  
+- [Outline SVG](./assets/spark-icon-outline.svg)  
+- [PNG versions & favicon](./assets/)
+
+
 ---
 
 ## 🌐 Learn More
