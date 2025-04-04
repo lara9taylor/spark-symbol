@@ -3,11 +3,10 @@
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-   <style>
-  <title>The Spark – Universal Symbol for Generative AI</title>
   <meta name="description" content="The Spark is the open, community-built symbol representing generative AI — human-centered, creative, and universal. Free to use by all.">
-  <link rel="icon" href="assets/spark-favicon.png" type="image/png">
-
+  <title>The Spark – Universal Symbol for Generative AI</title>
+   <link rel="icon" href="assets/spark-favicon.png" type="image/png">
+   <style>
     body {
       background: #111;
       color: #fff;
