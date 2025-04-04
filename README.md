@@ -58,10 +58,13 @@
   <p style="margin-top: 3rem; font-size: 0.9rem;">
     Visit <a href="https://sparksymbol.org">sparksymbol.org</a> or download from GitHub.<br/>
     Released under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 License</a>.
-  </p>
+  </p><p>
   ### 📬 Contact
 
 Questions, feedback, or contributions?  
 Email us at [info@sparksymbol.org](mailto:info@sparksymbol.org)
+</p><p>
+![License: CC0](https://img.shields.io/badge/license-CC0_1.0-lightgrey.svg)
+</p>
 </body>
 </html>
