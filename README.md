@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en"/>
+<html lang="en">
 <head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="The Spark is the open, community-built symbol representing generative AI — human-centered, creative, and universal. Free to use by all.">
+  <meta name="description" content="The Spark is the open, community-built symbol representing generative AI — human-centered, creative, and universal. Free to use by all."/>
   <title>The Spark – Universal Symbol for Generative AI</title>
    <link rel="icon" href="assets/spark-favicon.png" type="image/png">
    <style>
@@ -59,5 +59,9 @@
     Visit <a href="https://sparksymbol.org">sparksymbol.org</a> or download from GitHub.<br/>
     Released under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 License</a>.
   </p>
+  ### 📬 Contact
+
+Questions, feedback, or contributions?  
+Email us at [info@sparksymbol.org](mailto:info@sparksymbol.org)
 </body>
 </html>
