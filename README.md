@@ -1,61 +1,50 @@
-# The Spark 🔥  
-*The universal symbol of Generative AI.*
+# The Spark: A Universal Symbol for Generative AI
 
-![The Spark Logo](./assets/spark-logo.png) <!-- Replace with your actual image path -->
+**The Spark** is a community-created icon representing the essence of generative AI — human-inspired, infinitely creative, and universally accessible.
 
-## What is The Spark?
+![The Spark Icon](assets/spark-icon-color.png)
 
-**The Spark** is the open, universal symbol of human-centered Generative AI.
-
-It represents the moment where input becomes imagination — a glowing spark at the center of an infinity loop. It is the mark of creative intelligence, endlessly evolving, powered by human intent.
-
-> **“From one human spark, infinite creation.”**
-
-This icon is free to use, modify, and share — for model cards, creative tools, UIs, research papers, buttons, and beyond.
+> “From one human spark, infinite creation.”
 
 ---
 
-## 🔽 Download the Icon
+### 🔥 Why the Spark?
+The Spark symbolizes the self-improving, endlessly generative nature of AI — always powered by human intent and imagination. Its infinity loop reflects continuity and learning. Its flame is the human spark that starts it all.
 
-- [SVG (Color)](./assets/spark-icon-color.svg)  
-- [SVG (Mono)](./assets/spark-icon-black.svg)  
-- [PNG](./assets/spark-icon.png)  
-- [Outlined Version](./assets/spark-icon-outline.svg)  
-- [Black and White Version](./assets/spark-icon-bw.svg)
-
-*All versions are optimized for scalability (16px to 1024px).*
+This symbol is designed to be:
+- 🤝 Open and inclusive
+- 🧠 Recognizable and timeless
+- 💡 Usable across products, presentations, research, and education
 
 ---
 
-## 💡 How to Use It
+### 🗂️ Asset Downloads
 
-- Add to generative UI buttons ("Generate with The Spark")  
-- Use in product onboarding or loading screens  
-- Add to model cards as a visual certification  
-- Include in research or design presentations  
-- Embed in documentation or design systems
+| Format | Description |
+|--------|-------------|
+| `spark-icon-color.svg/png` | Full-color official Spark icon  
+| `spark-icon-black.svg/png` | Solid black version for light backgrounds  
+| `spark-icon-white.svg/png` | Solid white version for dark backgrounds  
+| `spark-icon-outline.svg/png` | Minimal line-art version  
+| `spark-favicon.png` | 32×32 icon for browser use  
+| `spark-social-preview.png` | Optimized preview for social sharing (1200×630)
 
-> “The spark is not the machine. It’s you.”
-
----
-
-## 📄 License
-
-**MIT License**  
-Attribution appreciated but not required.
-
-## 🔽 Download the Icon
-
-- [Full Color SVG](./assets/spark-icon-color.svg)  
-- [Black SVG](./assets/spark-icon-black.svg)  
-- [White SVG](./assets/spark-icon-white.svg)  
-- [Outline SVG](./assets/spark-icon-outline.svg)  
-- [PNG versions & favicon](./assets/)
-
+All assets live in the [`/assets`](./assets) folder.
 
 ---
 
-## 🌐 Learn More
+### 🌐 Website
+Visit [**sparksymbol.org**](https://sparksymbol.org) to learn more, view applications, and contribute to the community.
 
-To understand the philosophy and design principles behind The Spark, visit the  
-[**Morphos Foundation →**](https://morphosfoundation.org)
+---
+
+### 🪪 Licensing
+This symbol is released under a [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) license.  
+**Use it freely. Modify it. Share it.** It belongs to everyone.
+
+---
+
+### ✨ Credit
+Created with love and imagination by Lara Taylor and the open AI community.  
+Special thanks to all who believe in the power of a single spark.
+
