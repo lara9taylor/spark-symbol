@@ -12,6 +12,9 @@ Explore the assets or contribute at [GitHub](https://github.com/lara9taylor/spar
 See [CHANGELOG.md](CHANGELOG.md) for update history.
 
 ✨Credit✨
+
 Created by Lara Taylor
+
 Design Steward of The Spark
+
 https://sparksymbol.org • lara@sparksymbol.org
