@@ -1,0 +1,39 @@
+name: Spark Pull Request
+description: Submit a change, fix, or contribution to The Spark repository.
+title: "[Contribution] "
+labels:
+  - contribution
+  - needs review
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🚀 Thanks for contributing to The Spark!
+        Please complete the form below to help us review and merge your contribution smoothly.
+
+  - type: textarea
+    id: what-changed
+    attributes:
+      label: What does this PR add or change?
+      placeholder: Tell us what you're contributing and why it matters.
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Any additional notes, links, or references?
+      placeholder: Link to issues, images, use cases, etc.
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Final checklist
+      options:
+        - label: I’ve tested this locally or previewed my changes
+          required: true
+        - label: My contribution fits within the spirit of the Spark project (open, respectful, community-driven)
+          required: true
+        - label: I understand that all assets are shared under the CC0 license
+          required: true
