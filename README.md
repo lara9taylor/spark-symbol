@@ -14,5 +14,4 @@ See [CHANGELOG.md](CHANGELOG.md) for update history.
 ✨Credit✨
 
 Created by Lara Taylor - Design Steward of The Spark
-
 https://sparksymbol.org • lara@sparksymbol.org
