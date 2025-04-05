@@ -7,10 +7,10 @@
 ![The Spark Icon](assets/spark-icon-color.png)
 
 ✨Credit✨
-Created by Lara Taylor
-Design steward of The Spark  
+Created by Lara Taylor, Design steward of The Spark
 https://sparksymbol.org • lara@sparksymbol.org
 
 Visit [sparksymbol.org](https://sparksymbol.org)  
 Explore the assets or contribute at [GitHub](https://github.com/lara9taylor/spark-symbol)
+
 See [CHANGELOG.md](CHANGELOG.md) for update history.
