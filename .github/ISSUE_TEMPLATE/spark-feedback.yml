@@ -1,0 +1,50 @@
+name: Spark Feedback or Contribution
+about: Suggest an improvement, share a use case, or contribute something awesome.
+title: "[Suggestion] "
+labels: ["feedback", "community"]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ✨ Thanks for contributing to The Spark!
+        Use this form to share your ideas, feedback, or contributions with the community.
+        We’re building a symbol that belongs to everyone.
+
+  - type: dropdown
+    id: issue-type
+    attributes:
+      label: What kind of contribution is this?
+      options:
+        - Suggest a design improvement
+        - Share a new use case or implementation
+        - Request an additional file format
+        - Report a website or asset issue
+        - Ask a question or start a discussion
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your idea or suggestion
+      description: What would you like to improve or contribute?
+      placeholder: Please explain in as much detail as you'd like.
+    validations:
+      required: true
+
+  - type: input
+    id: related-links
+    attributes:
+      label: Links or related resources (optional)
+      placeholder: e.g. GitHub repo, icon usage, blog, screenshot...
+
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Contributor agreement
+      options:
+        - label: I understand that this project uses a CC0 (public domain) license.
+          required: true
