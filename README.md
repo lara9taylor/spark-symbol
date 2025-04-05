@@ -3,9 +3,9 @@
 **The Spark** is a community-created icon representing the essence of generative AI — 
 human-inspired, infinitely creative, and universally accessible.
 
-> “From one human spark, infinite creation.”
->
-> [![Download The Spark Icon Kit](https://img.shields.io/badge/download-icon--kit-orange?style=for-the-badge)](https://github.com/lara9taylor/spark-symbol/raw/main/assets/the-spark-icon-kit.zip)
+> “From one human spark, infinite creation.
+
+[![Download The Spark Icon Kit](https://img.shields.io/badge/download-icon--kit-orange?style=for-the-badge)](https://github.com/lara9taylor/spark-symbol/raw/main/assets/the-spark-icon-kit.zip)
 
 ![The Spark Icon](assets/spark-icon-color.png)
 
