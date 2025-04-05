@@ -13,7 +13,7 @@ human-inspired, infinitely creative, and universally accessible.
 
 The Spark is available in multiple formats: SVG, PNG, black, white, outline, favicon, and social preview — all organized in a pro-style folder structure.
 
-[![Download The Spark Icon Kit](https://img.shields.io/badge/download-icon--kit-orange?style=for-the-badge)](https://github.com/lara9taylor/spark-symbol/raw/main/assets/the-spark-icon-kit.zip)
+[![Download The Spark Icon Kit](https://img.shields.io/badge/download-icon--kit-orange?style=for-the-badge)](https://github.com/lara9taylor/spark-symbol/releases/latest)
 
 Includes:
 - ✅ SVG + PNG in color, black, white, and outline
