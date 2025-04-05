@@ -1,0 +1,31 @@
+## ✨ Thanks for contributing to The Spark!
+
+Use this form to share your ideas, feedback, or suggestions with the community.  
+This is an open, creative project — and every spark matters.
+
+---
+
+### 🔖 What kind of issue is this?
+
+- [ ] Suggest a design improvement
+- [ ] Share a new use case or implementation
+- [ ] Request an additional format (SVG, PNG, icon type)
+- [ ] Report a website or asset issue
+- [ ] Ask a question or start a discussion
+- [ ] Other
+
+---
+
+### 📌 Describe your idea or issue
+
+Please describe clearly what you're suggesting, asking, or reporting. Feel free to include links, screenshots, or examples.
+
+---
+
+### 📎 Related files or examples (optional)
+
+Let us know if you're referencing a specific asset, repo link, or application of the icon.
+
+---
+
+Thanks again for being part of the spark. 💎
